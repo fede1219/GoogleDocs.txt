@@ -1,0 +1,5 @@
+
+Al poder modificar varias personas el documento se pueden borrar datos de otro.
+Existen ciertas limitaciones relativas a las capacidades que puede aceptar según el formato del documento.
+Para textos, hasta 500Kb; imágenes hasta 2Mb y para hojas de cálculo hasta 256 celdas o 40 hojas.
+Podría no ser seguro si el usuario no crea una contraseña y la protege, o si el usuario se equivoca intentando compartir archivos con su grupo, y lo hace accesible a todo el público.
